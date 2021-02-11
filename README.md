@@ -1,4 +1,4 @@
 # MA677
-For homework, project and class note
+For homeworks, projects and class notes
 
-Assignment 1 was wrote in rmd. For the following assignment, I will write in r.
+Assignment 1 was wrote in rmd. For the following assignments, I will write in r.
